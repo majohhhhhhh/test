@@ -1,3 +1,5 @@
+# grgrg
+# grgr
 a=int(input('a='))
 b=int(input('b='))
 q=0
